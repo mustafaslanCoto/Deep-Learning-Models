@@ -1,1 +1,1 @@
-# Time_series_model_applications
+# Statistical, ML and DL models for time series prediction
